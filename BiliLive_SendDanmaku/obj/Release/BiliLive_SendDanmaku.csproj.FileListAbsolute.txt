@@ -1,0 +1,15 @@
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\bin\Release\BiliLive_SendDanmaku.exe.config
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\bin\Release\BiliLive_SendDanmaku.exe
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\bin\Release\BiliLive_SendDanmaku.pdb
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\MainWindow.baml
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\SettingWindow.baml
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\App.baml
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\MainWindow.g.cs
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\SettingWindow.g.cs
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\App.g.cs
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\BiliLive_SendDanmaku_MarkupCompile.cache
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\BiliLive_SendDanmaku.g.resources
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\BiliLive_SendDanmaku.Properties.Resources.resources
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\BiliLive_SendDanmaku.csproj.GenerateResource.Cache
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\BiliLive_SendDanmaku.exe
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Release\BiliLive_SendDanmaku.pdb

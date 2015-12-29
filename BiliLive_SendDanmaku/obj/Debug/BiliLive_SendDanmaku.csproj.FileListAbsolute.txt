@@ -1,0 +1,16 @@
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\bin\Debug\BiliLive_SendDanmaku.exe.config
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\bin\Debug\BiliLive_SendDanmaku.exe
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\bin\Debug\BiliLive_SendDanmaku.pdb
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku.csprojResolveAssemblyReference.cache
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\MainWindow.baml
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\App.baml
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\MainWindow.g.cs
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\App.g.cs
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku_MarkupCompile.cache
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku.g.resources
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku.Properties.Resources.resources
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku.csproj.GenerateResource.Cache
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku.exe
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\BiliLive_SendDanmaku.pdb
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\SettingWindow.baml
+d:\users\pc\documents\visual studio 2012\Projects\BiliLive_SendDanmaku\BiliLive_SendDanmaku\obj\Debug\SettingWindow.g.cs
